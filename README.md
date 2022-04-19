@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> In this project, I set up a "Hello world" repository. No complex coding is required in this exercise. My goal here is to master all of the tools and best practices I've learned about in previous steps. You will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them!
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html and CSS
+- Visual studio code (IDE)
 
 ## Live Demo (if available)
 
@@ -25,12 +24,16 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+> Web browser
 
 ### Setup
+> No setup required
 
 ### Install
+> Install a web browser if you do not have one already.
 
 ### Usage
+>clone this repository to your local machine and double click on the index.html page to run the app.
 
 ### Run tests
 
@@ -40,17 +43,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AduwuJoseph](https://github.com/AduwuJoseph)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/aduwu-joseph-483b91163)
 
 ## 🤝 Contributing
 
@@ -64,9 +60,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Gratitude to [Microverse Code-linters](https://github.com/microverseinc/linters-config)
 
 ## 📝 License
 
